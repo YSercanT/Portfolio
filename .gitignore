@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+.env
+.env.*.local
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# User uploads (admin media)
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Temporary/Backup files
+README2.md
